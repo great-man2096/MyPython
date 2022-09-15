@@ -1,0 +1,5 @@
+print('23452345\n\t24563456',end='end\n')
+print('23451345',end='')
+myInt = input("在此输入")
+print(type(myInt))
+print(f'输入的是{myInt}')
